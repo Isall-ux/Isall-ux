@@ -25,3 +25,6 @@ const theFool = {
  challenge: "I am doing tryin to master react in one month"
 }
 ```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isall-ux&show_icons=true&locale=en&layout=compact" alt="Isall-ux" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Isall-ux&show_icons=true&locale=en" alt="Isall-ux" /></p>
