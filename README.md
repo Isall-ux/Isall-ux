@@ -12,7 +12,8 @@
 const theFool = {
   pronouns: BATMAN,
   skillSet: [Javascript,React, HTML, CSS, Laravel, Tailwin-css]
-  personalThingsAbtMe: {things-i-like: [
+  personalThingsAbtMe: {
+                        things-i-like: [
                                           reading,
                                           learning,
                                           coffe,
