@@ -11,7 +11,7 @@
 ```javascript
 const theFool = {
   pronouns: BATMAN,
-  skillSet: [Javascript,React, HTML, CSS, Laravel, Tailwin-css]
+  skillSet: [Javascript, React,Node js, HTML, CSS, Laravel, TailwindCSS]
   personalThingsAbtMe: {
                         things-i-like: [
                                           reading,
@@ -26,6 +26,10 @@ const theFool = {
  challenge: "I am doing tryin to master react in one month"
 }
 ```
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isall-ux&show_icons=true&locale=en&layout=compact" alt="Isall-ux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Isall-ux&show_icons=true&locale=en" alt="Isall-ux" /></p>
