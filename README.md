@@ -17,6 +17,7 @@ const theFool = {
                                           reading,
                                           learning,
                                           coffe,
+                                          watching f1,
                                           my freinds
                                         ],
                         thingsIWantedToDo:[
@@ -31,6 +32,7 @@ const theFool = {
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -38,7 +40,13 @@ const theFool = {
 
 
 
-![Isall-ux's Stats](https://github-readme-stats.vercel.app/api?username=Isall-ux&theme=react&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  
+  ![Isall-ux's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isall-ux&theme=react&hide_border=true)
+    
+  ![Isall-ux's Stats](https://github-readme-stats.vercel.app/api?username=Isall-ux&theme=react&show_icons=true&hide_border=true&count_private=true)
+  ![Isall-ux's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isall-ux&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-![Isall-ux's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isall-ux&theme=react&show_icons=true&hide_border=true&layout=compact)
-![Isall-ux's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isall-ux&theme=react&hide_border=true)
+</div>
+
+
