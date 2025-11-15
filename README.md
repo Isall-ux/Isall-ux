@@ -13,18 +13,18 @@ const theFool = {
   pronouns: BATMAN,
   skillSet: [Javascript, React,Node js, HTML, CSS, TailwindCSS, Bootstrap, Laravel]
   personalThingsAbtMe: {
-                        thingsILike: [
-                                          reading,
-                                          learning,
-                                          coffe,
-                                          watching f1,
-                                          my freinds
+                        thingsILove: [
+                                          'reading',
+                                          'learning',
+                                          'coffe',
+                                          'watching f1',
+                                          'my freinds',
+                                          'my girlfriends'
                                         ],
                         thingsIWantedToDo:[
-                                                learning math from scratch,
+                                                'learning math from scratch'
                                               ]
-                        },
- challenge: "I am doing tryin to master react in one month"
+                        }
 }
 ```
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
