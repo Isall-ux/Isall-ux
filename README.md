@@ -13,7 +13,7 @@ const theFool = {
   pronouns: BATMAN,
   skillSet: [Javascript, React,Node js, HTML, CSS, TailwindCSS, Bootstrap, Laravel]
   personalThingsAbtMe: {
-                        thingsILove: [S
+                        thingsILove: [
                                           'reading',
                                           'learning',
                                           'coffe',
