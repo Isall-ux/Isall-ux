@@ -10,7 +10,6 @@
 
 ```javascript
 const theFool = {
-  pronouns: BATMAN,
   skillSet: [Javascript, React,Node js, HTML, CSS, TailwindCSS, Bootstrap, Laravel]
   personalThingsAbtMe: {
                         thingsILove: [
@@ -42,10 +41,10 @@ const theFool = {
 
 <div align="center">
   
-  ![Isall-ux's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isall-ux&theme=react&hide_border=true)
+  ![Isall-ux's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shino-tvs&theme=react&hide_border=true)
     
-  ![Isall-ux's Stats](https://github-readme-stats.vercel.app/api?username=Isall-ux&theme=react&show_icons=true&hide_border=true&count_private=true)
-  ![Isall-ux's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isall-ux&theme=react&show_icons=true&hide_border=true&layout=compact)
+  ![Isall-ux's Stats](https://github-readme-stats.vercel.app/api?username=shino-tvs&theme=react&show_icons=true&hide_border=true&count_private=true)
+  ![Isall-ux's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shino-tvs&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
